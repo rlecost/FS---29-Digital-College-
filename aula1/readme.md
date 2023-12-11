@@ -3,4 +3,4 @@
 - Entendo o que é o CSS
 - Entendo o que é o JS
 - Entendo o que é REQUEST e RESPOSE
-- Entendo como o HTML, CSS e JS se comunicam
+- Entendo como o HTML, CSS e JS se comunicams

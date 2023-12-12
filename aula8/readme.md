@@ -8,7 +8,7 @@
     - git add
     - git status
     - git commit 
-    - git clone
+    - git clone  
     - git push 
     - git push --set-upstream origin master 
     - git log 

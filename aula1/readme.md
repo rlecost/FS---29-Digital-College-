@@ -1,6 +1,7 @@
 ## Conteúdo da Aula 01
-- Entendo o que é o HTML
-- Entendo o que é o CSS
-- Entendo o que é o JS
-- Entendo o que é REQUEST e RESPOSE
-- Entendo como o HTML, CSS e JS se comunicams
+- Entendendo o que é o HTML
+- Entendendo o que é o CSS
+- Entendendo o que é o JS
+- Entendendo o que é REQUEST e RESPOSE
+- Entendendo como o HTML, CSS e JS se comunicam
+

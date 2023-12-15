@@ -24,3 +24,5 @@
 - **Daily Scrum**
 - **Sprint Review**
 - **Sprint Retrospective**
+
+<img src="https://blog.zeev.it/wp-content/uploads/2022/01/scrum.jpg" alt="" class="perfil">

@@ -1,4 +1,4 @@
-# 📚 Conteúdo da Aula 01
+# 📚 Aula 01 - HTML, CSS e JS 
 
 ## 🌐 HTML
 - Entendendo o que é o HTML;

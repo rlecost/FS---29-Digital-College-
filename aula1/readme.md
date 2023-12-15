@@ -15,6 +15,6 @@
 ## 🤝 Comunicação entre HTML, CSS e JS
 - Entendendo como o HTML, CSS e JS se comunicam;
 
-<img src="https://uploaddeimagens.com.br/images/004/691/326/original/unnamed-removebg-preview.png?1702600061" alt="" class="perfil" width="200">
+<img src="https://cursosciatec.com.br/home/wp-content/uploads/2018/11/BANNER-HTML5-CSS3-JAVASCRIPT-1.png" alt="" class="perfil" >
 
 

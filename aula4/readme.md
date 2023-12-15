@@ -12,4 +12,4 @@
 - **🌐 Seletor css global**: como usar o seletor universal `*` para aplicar estilos a todos os elementos do seu documento, independentemente da tag HTML.
 
 
-<img src="https://i.ytimg.com/vi/G4f2yiHnE2g/maxresdefault.jpg"" class="perfil">
+<img src="https://www.datocms-assets.com/64896/1680100421-before-content.png?auto=format" alt="" class="perfil">

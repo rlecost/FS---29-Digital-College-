@@ -1,4 +1,4 @@
-# 📚 Conteúdo da Aula 04 - Listas Ordenadas e Não Ordenadas em HTML e CSS
+# 📚 Aula 04 - Listas Ordenadas e Não Ordenadas em HTML e CSS
 
 
 - **📝 Estrutura básica de um documento HTML**: como criar um arquivo HTML e quais são os elementos principais que compõem a estrutura de uma página web;
